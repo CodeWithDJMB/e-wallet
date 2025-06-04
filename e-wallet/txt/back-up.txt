@@ -1,0 +1,2 @@
+skyblue = #35D6ED
+orange = #FFD700
