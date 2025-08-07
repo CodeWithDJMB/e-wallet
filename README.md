@@ -1,4 +1,4 @@
-💼﻿ DJ Pay – E-Wallet Simulation
+🪙 DJ Pay – E-Wallet Simulation
  
 This project is a manually developed simulation of a simple e-wallet system, built purely for educational and demonstration purposes. It includes basic features typically found in digital wallet applications.
 
