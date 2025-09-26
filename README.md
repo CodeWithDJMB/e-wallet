@@ -2,11 +2,11 @@
  
 This project is a manually developed simulation of a simple e-wallet system, built purely for educational and demonstration purposes. It includes basic features typically found in digital wallet applications.
 
-🗂️ Note: 
+📌 Note: 
 
 This project was originally created in 2023. It was only pushed today after I recently found it in one of my folders and it was quite hard to find!
 
-📂 Database Setup Instructions:
+🛠️ Database Setup Instructions:
 
 To update the connection string for the DJ Pay.mdf database:
 
